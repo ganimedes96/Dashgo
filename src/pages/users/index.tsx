@@ -8,23 +8,29 @@ import { useEffect } from 'react'
 import {useQuery} from'react-query'
 
 
+type User = {
 
+    id: string,
+    name: string,
+    email: string,
+    createdAt: string,
+}
 
 export default function UserList () {
 
     const {data, isLoading, error} = useQuery('users', async()=>{
 
-        const response = await fetch(`http://127.0.0.1:3000/api/users`)
+        const response = await fetch(`/api/users`)
         const data = await response.json()
 
-        const users = data.users.map(user =>{
+        const users = data.users.map((user: User) =>{
             return{
                 id: user.id,
                 name: user.name,
                 email: user.email,
                 createdAt: new Date(user.createdAt).toLocaleDateString('pt-BR',{
-                    day: '2-digit',
-                    month: 'long',
+                    day:'2-digit',
+                    month: 'long', 
                     year: 'numeric'
                 })
             }
@@ -81,7 +87,7 @@ export default function UserList () {
                             </Tr>
                         </Thead>
                         <Tbody>
-                            {data.map(user =>{
+                            {data.map((user: User) =>{
                                 return(
                                     <Tr key={user.id}>
                                         <Td px={['4','4','6']}>
