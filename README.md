@@ -62,7 +62,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/ganimdes96/ignews.git && cd ignews
+$ git clone https://github.com/ganimdes96/Dashgo.git && cd Dashgo
 ```
 
 **Follow the steps below**
@@ -83,7 +83,7 @@ $ yarn dev
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork ganimedes96/ignews
+$ gh repo fork ganimedes96/Dashgo
 ```
 
 **Follow the steps below**
@@ -110,4 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Saymon Damásio 👋 &nbsp;[See my linkedin]()
+Made with 💜 &nbsp;by Hdson Felipe 👋 &nbsp;[See my linkedin]()
