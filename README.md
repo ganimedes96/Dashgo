@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-  Ignews
+  Dashgo
 </h3>
 
 <p align="center">Um DashBoard responsivo com graficos e listagem de usuarios</p>
@@ -62,7 +62,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/saymon/ignews.git && cd ignews
+$ git clone https://github.com/ganimdes96/ignews.git && cd ignews
 ```
 
 **Follow the steps below**
@@ -83,14 +83,14 @@ $ yarn dev
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork saymondamasio/ignews
+$ gh repo fork ganimedes96/ignews
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd ignews
+$ git clone your-fork-url && cd  Dashgo
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -110,4 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Saymon Damásio 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/saymondamasio/)
+Made with 💜 &nbsp;by Saymon Damásio 👋 &nbsp;[See my linkedin]()
