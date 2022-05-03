@@ -39,6 +39,7 @@ export const Pagination = ({
     ? generatePagesArray(currentPage, Math.min(currentPage + siblingsCount, lastPage) )
     : []
 
+        console.log('totalCountOfRegisters',totalCountOfRegisters)
     return(
 
         <Stack 

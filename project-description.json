@@ -1,0 +1,63 @@
+{
+"name": "Dashgo",
+"short_description": "Um DashBoard responsivo com graficos e listagem de usuarios",
+"description": "Um DashBoard responsivo com graficos e listagem de usuarios. Nesse projeto foi utilizado Chakra UI e React Query",
+
+
+
+"techs": [
+  {
+    "name": "React.js",
+    "url": "https://reactjs.org"
+  },
+  {
+      "name":"Chakra ui",
+      "url":"https://chakra-ui.com"
+  },
+  
+  {
+    "name": "Mirage.js",
+    "url": "https://miragejs.com"
+  },
+  {
+    "name": "React Icons",
+    "url": "https://react-icons.github.io/react-icons/#/"
+  },
+  {
+    "name":"TypeScript",
+    "url":"https://www.typescriptlang.org"
+  },
+  {
+      "name":"React Hook Form",
+      "url":"https://react-hook-form.com"
+  },
+  {
+      "name":"React Query",
+      "url":"https://react-query.tanstack.com"
+  },
+  {
+      "name":"Yup",
+      "url":"https://github.com/jquense/yup"
+  },
+  {
+      "name":"Axios",
+      "url":"https://axios-http.com"
+  },
+  {
+    "name":"Eslint",
+    "url":"https://eslint.org"
+  }
+  
+],
+"images": [
+ "https://raw.githubusercontent.com/ganimedes96/Dashgo/main/.github/image.jpg",
+ "https://raw.githubusercontent.com/ganimedes96/Dashgo/main/.github/image1.jpg",
+ "https://raw.githubusercontent.com/ganimedes96/Dashgo/main/.github/image2.jpg",
+ "https://raw.githubusercontent.com/ganimedes96/Dashgo/main/.github/image3.jpg"
+ 
+   
+  
+
+]
+
+}
