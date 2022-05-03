@@ -39,7 +39,7 @@
 
 ## 👨🏻‍💻 About the project
 
-<p>Um DashBoard responsivo com graficos e listagem de usuarios. Neste projetos foi utilizado Chakra UI e React Query</p>
+<p>Um DashBoard responsivo com graficos e listagem de usuarios. Nesse projeto foi utilizado Chakra UI e React Query</p>
 
 ## 🚀 Technologies
 
