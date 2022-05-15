@@ -6,28 +6,7 @@
 
 <p align="center">Um DashBoard responsivo com graficos e listagem de usuarios</p>
 
-![board](https://user-images.githubusercontent.com/59948274/166400377-28a551a1-8ab5-49fe-9a0c-93a3770cf2b7.jpg)
 
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/saymondamasio/ignews">
-
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/Made%20by-Saymon%20Dam%C3%A1sio-brightgreen">
-  </a>
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/saymondamasio/ignews">
-
-  <a href="https://github.com/saymondamasio/ignews/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saymondamasio/ignews">
-  </a>
-
-  <a href="https://github.com/saymondamasio/ignews/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/saymondamasio/ignews">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/saymondamasio/ignews">
-</p>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
